@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="concot.CotacaoSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2015-11-18T02:51:24" hostname="ThiagoPC" time="2.853">
+  <properties/>
+  <testcase name="test something" classname="concot.CotacaoSpec" time="2.853">
+    <failure message="Condition not satisfied:&#10;&#10;true == false&#10;     |&#10;     false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+true == false
+     |
+     false
+
+	at concot.CotacaoSpec.test something(CotacaoSpec.groovy:20)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
